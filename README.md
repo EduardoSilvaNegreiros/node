@@ -19,4 +19,3 @@ As aulas deste repositório fazem parte da minha jornada para aprender o desenvo
 - Autenticação e segurança
 - Deploy de aplicações Node.js
 
-## Estrutura do Projeto
