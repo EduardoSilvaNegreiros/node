@@ -12,7 +12,7 @@ As aulas deste repositório fazem parte da minha jornada para aprender o desenvo
 
 ## Desenvolvimento
 ![Captura de tela de 2025-03-11 11-17-48](https://github.com/user-attachments/assets/474e96a9-2548-43f4-835e-05a340bf9378)
-
+![Captura de tela de 2025-03-11 11-19-34](https://github.com/user-attachments/assets/ad30eae5-22ca-444f-8866-877db01859f6)
 
 ## Tópicos do Curso
 - Introdução ao Node.js
