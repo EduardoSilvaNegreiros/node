@@ -10,6 +10,10 @@ As aulas deste repositório fazem parte da minha jornada para aprender o desenvo
 - **Express.js**: Framework minimalista para criação de servidores e APIs.
 - **MongoDB**: Banco de dados NoSQL utilizado para armazenar dados das aplicações.
 
+## Desenvolvimento
+![Captura de tela de 2025-03-11 11-17-48](https://github.com/user-attachments/assets/474e96a9-2548-43f4-835e-05a340bf9378)
+
+
 ## Tópicos do Curso
 - Introdução ao Node.js
 - Módulos e pacotes no Node.js
